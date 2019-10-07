@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{S4F-intern}[Latex Klasse für interne Kommunikation, Konzepte, etc.]
+\ProvidesClass{S4F-FFM}[Latex Klasse für interne Kommunikation, Konzepte, etc.]
 
 \LoadClass[a4paper]{scrartcl}
 \RequirePackage{sectsty}
