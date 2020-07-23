@@ -60,7 +60,7 @@
     \thispagestyle{first}
     ~\\[-2cm]
     \begin{tabular}{@{}L{0.7\textwidth}@{}R{0.3\textwidth}@{}}
-        \Large{\textbf{\thetitle}} & \multirow{4}{*}{\includegraphics[width=.17\textwidth]{s4f_logo_frankfurt.pdf}} \\[.3cm]
+        \Large{\textbf{\thetitle}} & \multirow{4}{*}{\includegraphics[width=.17\textwidth]{s4f_logo_frankfurtammain.pdf}} \\[.3cm]
         \thesubtitle & \\[.6cm]
         Datum: \hfill \thedate& \\
         Ort: \hfill \theplace & \\
